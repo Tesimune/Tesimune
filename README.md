@@ -4,7 +4,7 @@
 </div>
 
 ## 🚀 About Me
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- I am a Full-Stack Web and Mobile cross platform Developer specialized in MERN Stack and LAMP Stack development, with over 8 years and counting of coding experience and 4 years of professional experience. Within these years I have experienced all stages of the development cycle for dynamic web project. Web-versed in stacked programming languages including HTML, CSS, JavaScript, PHP and Related Frame-Works.
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
